@@ -5,7 +5,6 @@ import liens_et_graphe as lg
 # Inceste et descendance
 
 # pour retrouver l'url d'une page apres l'envoie de requete 
-# 
 def get_url(page):
     lien = 'https://iceandfire.fandom.com/wiki/'
     url = lien + page
